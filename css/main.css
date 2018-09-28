@@ -1,0 +1,72 @@
+
+nav {
+      background-color: hsl(217, 67%, 58%);
+      height:60px;
+     
+      border-bottom: 25px solid navy;
+   
+    }
+.yue { font: Verdana;
+      font-size:2rem;
+        color: white;
+        padding:2rem;
+ 
+}
+
+          
+          
+header{
+     background-image:url(../img/background.jpg);
+     background-size: 100%;
+     background-repeat: no-repeat;
+     background-position: center;
+    
+     }
+                 
+     
+h1{font-family:Verdana;
+    font-size:70px;
+     font-weight:200;
+     font-weight: bolder;
+     padding:1rem;
+  
+   
+    }
+    
+h2{font-family:Verdana;
+    font-size:50px;
+    font-weight: bolder;
+    color:darkcyan;
+    padding: 1rem;
+    
+        
+    }
+h3{font-family:Arial;
+        font-size:3rem;
+        font-weight: bold;
+        
+    
+    }
+    
+
+
+          
+P { font-size: 1rem;
+    background-color: hsl(0, 100%, 100%);
+    color: hsl(0, 100%, 1%);
+    font-family: Arial;
+   
+    }
+    
+    
+
+
+
+
+    
+    
+    
+}
+    
+
+
